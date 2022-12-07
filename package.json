@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Ellyzz08/mockup-builder#readme",
   "dependencies": {
     "ejs": "^2.5.7",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.9"
   },
